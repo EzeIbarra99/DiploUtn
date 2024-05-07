@@ -1,0 +1,30 @@
+.box-model{
+    float: left;
+    background-color: gray;
+    width: 250px;
+    height: auto;
+    margin: 10px 30px;
+
+    border-top: solid 5px red ;
+    border-right: solid 10px cyan ;
+    border-bottom: solid 7px green ;
+    border-left: solid 12px yellow ;
+    overflow: auto;
+}
+.box-model2{
+    float: right;
+    background-color: gray;
+    width: 250px;
+    height: auto;
+    margin: 10px 30px;
+
+    border-top: solid 5px red ;
+    border-right: solid 10px cyan ;
+    border-bottom: solid 7px green ;
+    border-left: solid 12px yellow ;
+    overflow: auto;
+}
+.linea{
+    display: inline;
+
+}
